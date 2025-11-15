@@ -1,4 +1,4 @@
-🐱 Cat Photo App – HTML Project
+ HTML Projects
 
 Welcome to my first HTML project, created as part of my learning journey in the FreeCodeCamp Web Development Certification! This simple Cat Photo App showcases the core structure of a webpage using clean, semantic HTML. It helped me understand how to combine different elements to build an accessible and well-organized layout.
 
